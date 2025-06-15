@@ -7,7 +7,7 @@ Following procedures are implemented:
 
 1. Pre-extract information from original dialogue dataset
 2. Add dialogue-level perturbation and check context information to form MT dataset
-3. Run testing on SUTs (original result in result directory)
+3. Run testing on SUTs
 4. Result analysis 
 
 
